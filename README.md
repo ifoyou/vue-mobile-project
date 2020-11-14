@@ -1,2 +1,7 @@
-# vue-mobile-project
-vue移动端基础工程搭建 ，基于 vue-cli3.x
+
+# 安装依赖
+npm install
+# 启动服务
+npm run dev
+# 代码格式检查
+npm run lint
